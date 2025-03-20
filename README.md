@@ -32,7 +32,7 @@ Value designation in config.json
 4. CLICK ON THE PICTURE TO INSTALL
 
 
-Translated with DeepL.com (free version)This software is a program for searching MetaMask wallets in the logs and brute force a lot of passwords to get seed phrases and passwords from wallets.
+This software is a program for searching MetaMask wallets in the logs and brute force a lot of passwords to get seed phrases and passwords from wallets.
 
 What is its advantage over parsers?
 This software is superior to any MetaMask wallet parser, at least in that you don't need to search and search for passwords to log in, which can be quite problematic. Bruteforcer will find all MetaMask wallets on its own and search for passwords not only from the logs, but also generate new ones based on those obtained from the logs. And if that doesn't help either, you can use your own personal password dictionary, which, by the way, will be automatically replenished after each of your bruteforces.
